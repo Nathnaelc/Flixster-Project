@@ -1,5 +1,3 @@
-📝 **NOTE** Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 1 Assignment: Flixster
 
 Submitted by: **Nathnael Mekonnen**
@@ -46,7 +44,10 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/26c44820936f4789b5432ce103a6e155" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-[![Watch the video](Link_To_Thumbnail_Image_Here)](https://www.loom.com/share/26c44820936f4789b5432ce103a6e155)
+[![Watch the video](<a href="https://www.loom.com/share/26c44820936f4789b5432ce103a6e155">
+    <p>My First Week Flixster Project 🎬 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/26c44820936f4789b5432ce103a6e155-with-play.gif">
+  </a>)](https://www.loom.com/share/26c44820936f4789b5432ce103a6e155)
 
 ### Reflection
 
