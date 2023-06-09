@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flixster Movie Web</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;300&display=swap");
+    </style>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="nav_container">
+      <header>
+        <nav class="nav_bar">
+          <div>
+            <h1>Flixster</h1>
+          </div>
+          <div>
+            <input
+              type="search"
+              id="search-input"
+              placeholder="Search for a movie"
+            />
+            <button id="close-search-btn">X</button>
+          </div>
+        </nav>
+      </header>
+    </div>
+
+    <main>
+      <!-- Section for the Movies -->
+      <section id="movie-grid"></section>
+      <div class="button-container">
+        <button id="load-more-movies-btn">Load more</button>
+      </div>
+    </main>
+
+    <div id="movie-popup" style="display: none">
+      <!-- stretch feature - For additional movie details populating by JS -->
+    </div>
+
+    <footer>
+      <div class="footer-container">
+        <p class="copy-right">© 2023 Seas Flixster.</p>
+        <a href="#" id="back-to-top">Back to Top</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
